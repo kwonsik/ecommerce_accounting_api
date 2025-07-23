@@ -14,7 +14,7 @@
 
        Spring Boot: http://localhost:7070
 
-       MySQL: 내부적으로 localhost:3306
+       MySQL: 내부적으로 localhost:3306, pw : acc1234
 
     5) API 테스트 (Postman)
 
