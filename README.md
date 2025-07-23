@@ -6,8 +6,6 @@
 
     1) 전체 클론
        git clone https://github.com/kwonsik/ecommerce_accounting_api.git
-
-       cd ecommerce-accounting_api
        
     3) Docker + Docker Compose 설치
 
