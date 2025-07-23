@@ -23,6 +23,8 @@
        POST "http://localhost:7070/api/v1/accounting/process"
        
        Form-data
+  
+       C:\Users\user_name\Postman\files 폴더에 해당 파일 저장해야 POSTMAN에 업로드 가능, 폴더명이 Postman Agent라면 Postman으로 변경해줘야 함 
        
        csvFile : File bank_transactions.csv
        
