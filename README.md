@@ -7,18 +7,18 @@
     1) 전체 클론
        git clone https://github.com/kwonsik/ecommerce_accounting_api.git
 
-       cd ecommerce-accounting
+       cd ecommerce-accounting_api
+       
+    3) Docker + Docker Compose 설치
 
-    2) Docker + Docker Compose 설치
-
-    3) 실행
+    4) 실행
        docker-compose up --build
 
        Spring Boot: http://localhost:7070
 
        MySQL: 내부적으로 localhost:3306
 
-    4) API 테스트 (Postman)
+    5) API 테스트 (Postman)
 
        -1 거래내역 업로드
        POST "http://localhost:7070/api/v1/accounting/process"
