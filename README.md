@@ -20,6 +20,7 @@
 
        -1 거래내역 업로드
        POST "http://localhost:7070/api/v1/accounting/process"
+       
        Form-data
        csvFile : File bank_transactions.csv
        jsonFile : File rules.json
