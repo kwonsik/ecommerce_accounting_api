@@ -23,7 +23,7 @@
 
 
         -2 사업체별 거래내역 조회
-            GET "http://localhost:8080/api/v1/accounting/records?companyId=?"
+            GET "http://localhost:7070/api/v1/accounting/records?companyId=?"
 
 
 2. 설계 및 보안 아키텍처 기술서
